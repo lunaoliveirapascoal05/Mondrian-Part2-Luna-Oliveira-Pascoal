@@ -9,11 +9,13 @@ Usei o random() nas cores ou seja, coloquei em fez de fill(cores certas), fill( 
 Usei também o frameRate() para controlar a velocidade do piscar das cores para não ficar tão difícil de observar.
 
 -Referências
+
 random():
 https://p5js.org/reference/p5/random/ 
 
 frameRate():
 https://www.youtube.com/watch?v=B-N-isc31Z0&t=152s
+
 https://p5js.org/reference/p5/frameRate/
 
 

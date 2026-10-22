@@ -22,7 +22,6 @@ pop();
 
 }
 
-
 function draw() {
 //gradiente de cores
 gradientFilter();

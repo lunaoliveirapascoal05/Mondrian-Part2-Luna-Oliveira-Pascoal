@@ -1,6 +1,6 @@
 # Explicação da produção da Parte 2 da Composição nºIII de Piet Mondrian 
 
-Para a parte 2 tínhamos que desestabilizar a composição de Piet Mondrian, com um elemento generativo usando o random()
+Para a parte 2 tínhamos que desestabilizar a composição de Piet Mondrian, com um elemento generativo usando o random().
 
 Escolhi trabalhar com as cores, que inicialmente apenas mudavam de RGB aleatóriamente cada vez que se dava refresh á página, porém, quis mudar e colocar as cores a piscar para dar mais movimento.
 
@@ -15,7 +15,6 @@ https://p5js.org/reference/p5/random/
 
 frameRate():
 https://www.youtube.com/watch?v=B-N-isc31Z0&t=152s
-
 https://p5js.org/reference/p5/frameRate/
 
 
